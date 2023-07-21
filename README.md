@@ -1,4 +1,3 @@
-### Olá, bem-vindo!
 
  <div style={flex:1, display: "flex", align-items: "center", justify-content: "center", background-color: "#000"}>
   <a href="https://github.com/mrnbc">
