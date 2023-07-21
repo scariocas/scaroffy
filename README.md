@@ -1,7 +1,8 @@
-  #### Olá, Bem vindo! Viagem longa? Descanse, tome uma água e explore um pouco por aqui.
+
  
  <div style={flex:1, align="center" display: "flex" , align-items: "center", justify-content: "center", background-color: "#000"}>
-   #### Olá, Bem vindo! Viagem longa? Descanse, tome uma água e explore um pouco por aqui.
+ Olá, Bem vindo! Viagem longa? Descanse, tome uma água e explore um pouco por aqui.
+   <br>
   <a href="https://github.com/mrnbc">
    <img aling="center"  src="https://github-readme-stats.vercel.app/api?username=mrnbc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
   </a>
