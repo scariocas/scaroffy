@@ -2,7 +2,7 @@
  <div style={flex:1, display: "flex", align-items: "center", justify-content: "center", background-color: "#000"}>
   <a href="https://github.com/mrnbc">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrnbc&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" width="48%"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnbc&theme=dark" width="46%" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnbc&theme=dark" width="45%" >
   </a>
 </div>
   
