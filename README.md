@@ -12,7 +12,7 @@
   <img align="left" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1834653977117352460/071D7CB74EA45768A77A1B665704638EBADCB53D/" width="360" height="300" />
  
 <div><br>
-  <a href="https://github.com/mrnbc">
+  <a href="https://github.com/scaroffy">
   <img align="center" alt="Gui-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Gui-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Gui-C#" src="https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=white">
