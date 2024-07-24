@@ -3,7 +3,7 @@
  <div style={flex:1, align="center" display: "flex" , align-items: "center", justify-content: "center", background-color: "#000"}>
  <h3><i>Olá, Bem vindo! Viagem longa? Descanse, tome uma água e explore um pouco por aqui.</i></h3><br>
  <a href="https://github.com/scaroffy">
-   <img aling="center"  src="https://github-readme-stats.vercel.app/api?username=mrnbc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
+   <img aling="center"  src="https://github-readme-stats.vercel.app/api?username=scaroffy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
   </a>
 </div>
   
